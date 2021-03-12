@@ -1,5 +1,7 @@
 # live-chat
 
+https://live-chat-a3bf2.web.app/
+
 ## Project setup
 ```
 npm install
